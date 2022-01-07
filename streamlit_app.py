@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import date
-from pymongo
+import pymongo
 
 client = pymongo.MongoClient("mongodb+srv://Shiva:Namachivaya@cluster0.trwfg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
