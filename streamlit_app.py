@@ -1,4 +1,3 @@
-from platform import uname
 from numpy.core.fromnumeric import size
 import streamlit as st
 import plotly.express as px
