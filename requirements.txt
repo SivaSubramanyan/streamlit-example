@@ -2,3 +2,4 @@ pandas
 streamlit
 pymongo
 plotly
+pymongo[srv]
